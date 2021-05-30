@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+}
+
+#nameIntro {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sacramento', cursive;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    font-size: 10em;
+    font-weight: bolder;
+
+}
+
+#landingPage{
+    margin-bottom: 2em;
+    height: 60em;
+    background-color: #1b262c;
+    padding-top: 10em;
+    background-image: url("../images/sky.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.content {
+    margin: 0,0,0,0;
+}
+
+.desc{
+    font-size: 4em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.section {
+    background-color: #0f4c75;
+    height: 2em;
+}
+
+#propic {
+    width: 25%;
+    height: 25%;
+}
+
+
+#computer{
+    width: 20em;
+    height: 20em;
+}
+
+footer {
+    margin-top: 10em;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-flow: column;
+}
